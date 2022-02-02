@@ -7,3 +7,4 @@ create logo
 
 thank you
 
+final copy
